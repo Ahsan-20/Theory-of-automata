@@ -1,0 +1,4 @@
+cc
+abcc
+ccac
+cacaa
